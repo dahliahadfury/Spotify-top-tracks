@@ -1,0 +1,101 @@
+,id,title,artist,album,release date,duration_ms,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,owner
+0,6Kkt27YmFyIFrcX3QXFi2o,Liability,Lorde,Melodrama,2017-06-16,171728,72,0.587,0.229,10,-11.254,0,0.128,0.92,0,0.1,0.379,75.67,4,me
+1,5Htq8DDDN0Xce9MwqzAzui,La La Lost You,88rising,Head In The Clouds II,2019-10-11,200000,67,0.721,0.582,2,-8.251,1,0.0411,0.315,0.000559,0.065,0.487,100.083,4,me
+2,44ZgNPCwK6tMNErjUJLIn8,All The Bright Places I - Solo Piano Version,Keegan DeWitt,All The Bright Places (Music from the Netflix Film),2020-02-28,127068,33,0.718,0.107,8,-31.183,1,0.0652,0.995,0.916,0.105,0.857,120.026,3,me
+3,4JiDOmbJiV30RtE6msZgxF,Small Memory,Jon Hopkins,Insides,2009-05-03,100947,55,0,0.00834,1,-23.201,1,0,0.993,0.936,0.195,0,0,0,me
+4,2oxBo0YLW89NLuv64Pvohc,Saving Grace,Kodaline,One Day at a Time,2020-06-12,230899,55,0.45,0.718,3,-5.95,1,0.0295,0.0304,0,0.0942,0.37,156.009,4,me
+5,5lIYNJboTn9JuV6HGQqIML,Sephia - OST Generasi 90an Melankolia,gamaliél,Sephia (OST Generasi 90an Melankolia),2020-03-17,220364,44,0.631,0.332,0,-11.772,0,0.0366,0.464,0.0103,0.145,0.241,109.921,4,me
+6,5bNMuAAxt5Ic6h0KxId0bj,All The Bright Places I,Keegan DeWitt,All The Bright Places (Music from the Netflix Film),2020-02-28,170481,41,0.517,0.292,8,-13.347,1,0.0356,0.868,0.897,0.138,0.249,124.954,3,me
+7,4uf6GYD0cShgYKvRiKDNYt,Lullaby For A Cat,Epik High,sleepless in __________,2019-03-11,131753,51,0.659,0.324,2,-10.942,1,0.0398,0.808,0.883,0.107,0.277,138.007,4,me
+8,1VGzxJnVQND7Cg5H5wGj14,YEAH RIGHT,Joji,BALLADS 1,2018-10-26,174358,80,0.672,0.588,1,-9.573,1,0.133,0.619,0.241,0.0992,0.204,169.033,4,me
+9,13QIjo2iGBgl56mNDjJOet,I Choose - From The Netflix Original Film The Willoughbys,Alessia Cara,I Choose (From The Netflix Original Film The Willoughbys),2020-04-03,217348,70,0.66,0.631,0,-6.464,1,0.0764,0.386,0,0.16,0.416,138.007,3,me
+10,0u4rkpmNtgcFxYHepnVF4v,Carry You,Novo Amor,Bathing Beach,2017-05-26,273107,65,0.334,0.397,7,-7.993,1,0.0284,0.558,0.0774,0.126,0.035,93.445,4,me
+11,2JR4pCpJa22MpjA6ozqSKS,Let’s Get Married,Yellow Claw,Let's Get Married,2019-09-20,233787,33,0.603,0.645,1,-5.964,0,0.0372,0.00339,0,0.41,0.522,74.997,4,me
+12,7eJMfftS33KTjuF7lTsMCx,death bed (coffee for your head) (feat. beabadoobee),Powfu,death bed (coffee for your head) (feat. beabadoobee),2020-02-08,173333,95,0.726,0.431,8,-8.765,0,0.135,0.731,0,0.696,0.348,144.026,4,me
+13,4pvb0WLRcMtbPGmtejJJ6y,exile (feat. Bon Iver),Taylor Swift,folklore,2020-07-24,285634,88,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62E-05,0.11,0.152,75.602,4,me
+14,1NQshLCETtyX46PK1quLSC,Pumpin Blood - Taken by Trees x Belief Remix,NONONO,We Are Only Remixes,2015-07-24,193784,44,0.752,0.741,7,-6.275,1,0.0391,0.063,0.0195,0.169,0.742,129.979,4,me
+15,5k8QGcDjSx8Bv6P25H6NFU,Rasa & Karsa,Figura Renata,Figura Renata,2017-02-10,340013,48,0.403,0.363,2,-9.916,1,0.0241,0.636,0.000957,0.0899,0.0411,98.501,4,me
+16,6eDfe957aV4sqGnDhlSikJ,Drive Safe,Rich Brian,The Sailor,2019-07-26,240118,67,0.635,0.312,7,-8.134,1,0.0265,0.635,0,0.138,0.414,98.017,4,me
+17,3Za4yViy4wKFEF0gkqCH3j,I Love You Too Much,Gustavo Santaolalla,The Book of Life (Original Motion Picture Soundtrack),2014-09-29,155320,49,0.403,0.255,0,-9.601,1,0.0428,0.854,9.50E-06,0.198,0.21,206.198,3,me
+18,341863z079BT4EFPiSw9DP,The Call,Regina Spektor,The Call,2009,187427,61,0.58,0.101,10,-15.661,1,0.0289,0.934,0.000302,0.0768,0.302,91.003,3,me
+19,3pcPPhPAiurm2Ior11SHrz,Daddy,Coldplay,Everyday Life,2019-11-22,298320,63,0.636,0.18,1,-19.54,1,0.0338,0.931,0.801,0.513,0.202,116.945,4,me
+20,7JFFMicliyVArHQgwEqVBS,Alexandra,Reality Club,What Do You Really Know?,2019-08-30,238543,51,0.382,0.355,9,-10.025,1,0.0336,0.745,2.65E-06,0.248,0.146,138.419,4,me
+21,3xXBsjrbG1xQIm1xv1cKOt,One More Light,Linkin Park,One More Light,2017-05-19,255067,73,0.593,0.2,8,-11.063,1,0.0311,0.904,0,0.0897,0.17,83.966,4,me
+22,3gbwtdRrtD05lz08DTxfFt,City Of Stars (Humming),Justin Hurwitz,La La Land (Original Motion Picture Soundtrack),2016-12-09,162973,56,0.564,0.0136,4,-24.79,0,0.0349,0.975,0.0168,0.111,0.397,93.205,4,me
+23,4H7WNRErSbONkM06blBoGc,Stay,Post Malone,beerbongs & bentleys,2018-04-27,204427,77,0.507,0.48,5,-5.418,1,0.0266,0.449,0,0.147,0.35,86.046,4,me
+24,3YD9EehnGOf88rGSZFrnHg,Stay Together For The Kids,blink-182,Take Off Your Pants And Jacket,2001,239333,62,0.519,0.78,2,-4.939,1,0.0356,0.00165,2.14E-05,0.156,0.166,145.125,4,me
+25,1LRF0e7tMHNDHj25tBlIm2,Always Somewhere - Live,Scorpions,Acoustica,2001-03-22,252680,45,0.564,0.538,8,-8.368,0,0.0311,0.623,0.00308,0.977,0.186,115.815,4,me
+26,4u4t9R8Iky417ZasENaKXX,Yuri on ICE,Taro Umebayashi,Yuri on ICE,2016-10-27,220999,54,0.176,0.514,8,-12.05,1,0.0308,0.816,0.637,0.117,0.154,80.018,4,me
+27,2cFGv8v5DcbJXHEdzouFne,Remember Me (Lullaby),Gael Garcia Bernal,Coco (Original Motion Picture Soundtrack),2017-11-10,69813,60,0.534,0.0556,0,-19.916,1,0.0481,0.922,0.00024,0.11,0.272,92.65,4,me
+28,0ZJAaMYZzmnHGA6msryIWf,1000x,Jarryd James,High,2016-07-29,241400,53,0.547,0.576,8,-7.122,1,0.0315,0.156,0.0296,0.0797,0.0594,111.958,4,me
+29,3JAXufDj7JkyOtwMwYmsBQ,Smallest Light,Ingrid Michaelson,The Space Between Us (Original Motion Picture Soundtrack),2017-01-27,217747,42,0.468,0.143,5,-12.231,1,0.0296,0.921,0,0.0936,0.192,109.668,4,me
+30,6Dh1zHQjEaOp29VW9pp3xG,Taruh,Nadin Amizah,Selamat Ulang Tahun,2020-05-28,249892,58,0.349,0.244,11,-13.163,1,0.0462,0.979,0.000909,0.0924,0.547,89.98,4,me
+31,6ozSdLQYOBh6R2VlRb3t98,Listen,ONE OK ROCK,Ambitions,2017-01-13,219040,48,0.494,0.899,1,-4.492,1,0.0468,0.019,1.39E-05,0.189,0.352,84.006,4,me
+32,104buTcnP2AsxqB7U1FIZ4,Heavy (feat. Kiiara),Linkin Park,One More Light,2017-05-19,169801,69,0.59,0.671,9,-6.098,1,0.0706,0.0484,0,0.0604,0.438,149.982,4,me
+33,52okn5MNA47tk87PeZJLEL,Let You Down,NF,Perception,2017-10-06,212120,82,0.662,0.714,5,-5.68,0,0.121,0.312,0,0.179,0.464,147.997,4,me
+34,1joFnRAR5U4kQb34ubZ7sD,Mia & Sebastian’s Theme,Justin Hurwitz,La La Land (Original Motion Picture Score),2016-12-09,96893,55,0.439,0.187,9,-16.261,1,0.0759,0.976,0.906,0.139,0.179,65.284,4,me
+35,2is19a6HY7ZdWP654IMhEE,Break My Heart Again,FINNEAS,Break My Heart Again,2018-02-09,238013,77,0.402,0.151,4,-14.227,0,0.0395,0.907,0,0.0941,0.483,144.293,4,me
+36,2VYqkb77OjToeRAnMNd4yU,Misguided Ghosts,Paramore,Brand New Eyes,2009-09-28,181507,56,0.567,0.266,0,-11.217,1,0.0343,0.73,4.91E-05,0.116,0.236,106.46,4,me
+37,4OuvOizndKjIjOwTUYB7H5,I'll Take You Home - Live,Banda Neira,Kita Sama-Sama Suka Hujan (Live Konser 2015),2017-09-29,353697,27,0.282,0.217,7,-15.886,1,0.0402,0.958,0.00337,0.684,0.176,122.921,4,me
+38,7n7ibkmqKivXKOvlTBaAnS,Growing Up (Rara Sekar),Daramuda,Salam Kenal,2019-02-22,553625,53,0.448,0.127,7,-17.758,1,0.0362,0.953,5.49E-05,0.196,0.0955,102.061,3,me
+39,2oq1aKIYED2LFiwgxZIpie,Paper Planes (feat. Kellin),ONE OK ROCK,35xxxv (Deluxe Edition),2015-09-25,200187,39,0.347,0.961,9,-3.842,1,0.325,0.00391,0,0.579,0.148,110.08,4,me
+40,1LLXZFeAHK9R4xUramtUKw,London Boy,Taylor Swift,Lover,2019-08-23,190240,70,0.695,0.71,1,-6.639,1,0.05,0.0246,0.000104,0.133,0.557,157.925,4,me
+41,50WeOnXhM1H7AZEeIDoWfZ,Show Yourself,Idina Menzel,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),2019-11-15,260907,77,0.321,0.429,6,-7.073,1,0.0302,0.724,9.10E-05,0.0606,0.174,123.419,4,me
+42,5Sbf1ONFdUHbb88m9VUqDN,Cry Out,ONE OK ROCK,35xxxv (Deluxe Edition),2015-09-25,227933,51,0.334,0.941,5,-4.406,1,0.111,0.00154,0,0.151,0.282,168.032,4,me
+43,6J7cSyvSCnPwv3vqHchEfL,If It Means a Lot to You,A Day To Remember,Homesick,2009,243227,68,0.584,0.536,10,-8.158,1,0.0279,0.112,0,0.456,0.44,126.996,4,me
+44,4kqN6K6J1nM18zivvFLx8v,Hollywood,The Black Skirts,Hollywood,2015-04-09,331000,46,0.552,0.782,1,-8.082,0,0.0302,0.149,0.904,0.1,0.513,147.953,4,me
+45,6zeE5tKyr8Nu882DQhhSQI,Dust in the Wind,Kansas,Point Of Know Return,1977,206267,77,0.475,0.322,7,-10.687,1,0.0283,0.367,0.00056,0.11,0.387,93.503,4,me
+46,20W4bkIZAFWqLdccC90IO7,Princess Mononoke (Mononoke Hime) - Princess Mononoke,daigoro789,Studio Ghibli Classics for Piano: played by daigoro789,2015-11-03,231147,35,0.507,0.0829,0,-21.151,0,0.0938,0.986,0.704,0.09,0.282,81.341,4,me
+47,1GfIiXgVLiHBnRaMzOGA3f,Sakura No Hanabira Tachi - Team A Version,AKB48,Set List Greatest Songs 2006-2007,2006,323320,35,0.53,0.91,11,-2.707,1,0.0386,0.0495,0,0.0855,0.52,100.024,4,me
+48,354bs7EDkFxcmQYcKB6ya6,Harder Than You Know,Escape the Fate,This War Is Ours (Deluxe Edition),2010-04-27,259387,43,0.412,0.537,3,-7.593,1,0.0295,0.269,0,0.123,0.0675,107.201,4,me
+49,4XZIuf6EJw8HKOkRC9Jlj4,Lalala - Remix - [feat. Enrique Iglesias & Carly Rae Jepsen],Y2K,Lalala (Remix - [feat. Enrique Iglesias & Carly Rae Jepsen]),2019-10-30,175253,63,0.871,0.417,9,-7.864,1,0.0781,0.18,0,0.103,0.524,129.952,4,me
+50,0HWoJkzmJsQ3GTFAANr2bA,Arni (Home World),Yasunori Mitsuda,Chrono Cross Original Soundtrack,1999,203133,30,0.592,0.366,8,-11.695,1,0.0296,0.697,0.947,0.138,0.459,122.027,3,my boyfriend
+51,3DamFFqW32WihKkTVlwTYQ,Fireflies,Owl City,Ocean Eyes,2009-01-01,228347,79,0.512,0.662,3,-6.797,1,0.0439,0.0275,0,0.118,0.472,180.114,4,my boyfriend
+52,2DLrgv7HhJanCuD8L9uJLR,Zenzenzense - movie ver.,RADWIMPS,Your Name.,2016-08-24,285880,66,0.321,0.906,11,-3.967,1,0.141,0.000439,0,0.0862,0.641,189.776,4,my boyfriend
+53,2oxBo0YLW89NLuv64Pvohc,Saving Grace,Kodaline,One Day at a Time,2020-06-12,230899,55,0.45,0.718,3,-5.95,1,0.0295,0.0304,0,0.0942,0.37,156.009,4,my boyfriend
+54,2gApWgkuisXedOcS9Tligs,New Page,INTERSECTION,New Page,2020-01-08,270904,54,0.604,0.733,2,-5.788,1,0.0348,0.105,0,0.25,0.399,124.885,4,my boyfriend
+55,1FWsomP9StpCcXNWmJk8Cl,K.,Cigarettes After Sex,Cigarettes After Sex,2017-06-09,320030,67,0.454,0.4,3,-10.261,1,0.0265,0.139,0.846,0.137,0.327,93.719,4,my boyfriend
+56,21z1GxeHjfD3qkaF5CgCTO,Silhouette,KANA-BOON,Time,2015-01-21,240133,74,0.436,0.934,2,-2.685,1,0.0507,1.05E-05,0.136,0.321,0.383,91.488,4,my boyfriend
+57,5p42VQGt5CM9FmpMMU4yg3,Sendu Melagu,Barasuara,Taifun,2015-10-16,247583,22,0.673,0.703,4,-7.061,0,0.0317,0.00128,0.434,0.217,0.437,140.967,4,my boyfriend
+58,3SNczkrn6bUm6zZM8i5XDe,Shout Baby,Ryokuoushoku Shakai,Shout Baby,2020-02-19,265987,59,0.475,0.881,7,-1.846,1,0.0407,0.033,0,0.0513,0.582,180.05,4,my boyfriend
+59,7pcTLUekZJQnzDOUDuExVJ,打上花火,DAOKO,打上花火,2017-08-16,289335,59,0.635,0.667,6,-5.392,1,0.0253,0.207,0,0.108,0.261,96.003,4,my boyfriend
+60,3wMgiEIahju80hTEXtf3Ya,F.U.N. Song,Spongebob Squarepants,SpongeBob's Greatest Hits,2001,84827,46,0.747,0.429,2,-8.908,1,0.319,0.915,0,0.617,0.954,80.375,4,my boyfriend
+61,5ZkAx8zjLiSs1nMmBwJoZS,"When Can I See You Again? - From ""Wreck-It Ralph""/Soundtrack Version",Owl City,Wreck-It Ralph,2012-01-01,218093,64,0.638,0.831,11,-6.812,0,0.081,0.0263,0,0.0491,0.388,127.975,4,my boyfriend
+62,4uWBY1nBDYrdGrOTe6uEWh,BUTTER-FLY,Anison Evolution,Anison Tribute vol.1,2019-10-23,282387,34,0.392,0.713,7,-5.16,0,0.0848,0.427,0,0.0794,0.372,157.909,4,my boyfriend
+63,2P4OICZRVAQcYAV2JReRfj,Waiting For Love,Avicii,Stories,2015-10-02,230613,78,0.579,0.736,6,-3.863,0,0.0527,0.31,0,0.198,0.613,127.999,4,my boyfriend
+64,2ux8CLOcArj4QsXygAB7u3,This Isn’t The End,Owl City,Mobile Orchestra,2015-07-10,203840,51,0.664,0.655,7,-5.752,1,0.0291,0.0173,0.000312,0.15,0.449,128.013,5,my boyfriend
+65,4Kqse3miuIfQxJ41SAbqkl,Ripped Pants,Spongebob Squarepants,SpongeBob's Greatest Hits,2001,76813,45,0.768,0.585,0,-8.331,1,0.119,0.101,0,0.445,0.617,122.73,4,my boyfriend
+66,013AWvizllIUEC2FOBzOnh,Truly Madly Deeply,Savage Garden,Savage Garden,1997-03-04,277267,74,0.555,0.698,0,-8.874,1,0.0287,0.403,0,0.0851,0.816,168.12,4,my boyfriend
+67,5lIYNJboTn9JuV6HGQqIML,Sephia - OST Generasi 90an Melankolia,gamaliél,Sephia (OST Generasi 90an Melankolia),2020-03-17,220364,44,0.631,0.332,0,-11.772,0,0.0366,0.464,0.0103,0.145,0.241,109.921,4,my boyfriend
+68,1kPpge9JDLpcj15qgrPbYX,Good Time,Owl City,The Midsummer Station,2012-01-01,205933,75,0.56,0.872,3,-4.269,1,0.14,0.0239,6.98E-06,0.371,0.682,126.05,4,my boyfriend
+69,3FPlY1uqTe1oFfIgI0BnoA,Beranjak Dewasa,Nadin Amizah,Selamat Ulang Tahun,2020-05-28,297617,63,0.56,0.331,0,-7.929,1,0.0287,0.454,0.00347,0.102,0.0781,115.094,4,my boyfriend
+70,0FJL3Dwu8oUpwDb80qNdvP,Always with Me,Yumi Kimura,Spirited Away Soundtrack,2001-07-18,215427,53,0.438,0.0438,5,-19.577,1,0.0529,0.993,0,0.0842,0.686,144.196,4,my boyfriend
+71,7k5EcszNwUturoU20TTy1G,Shooting Star,Owl City,The Midsummer Station,2012-01-01,247347,56,0.514,0.873,0,-4.939,1,0.0528,0.0124,0,0.112,0.459,124.018,4,my boyfriend
+72,2RycgtfFQZOPgEGrzBGE0j,Getsomerest/sleepwell,"quickly, quickly","Quickly Quickly, Vol. 1",2017-04-16,332173,66,0.637,0.394,7,-13.536,1,0.286,0.605,0.305,0.0968,0.361,132.015,4,my boyfriend
+73,3bWLBVZz9Vur3OLy05SpfF,Verge,Owl City,Mobile Orchestra,2015-07-10,213027,57,0.546,0.744,2,-6.892,1,0.0333,0.000181,1.17E-06,0.114,0.206,127.977,4,my boyfriend
+74,2XpV9sHBexcNrz0Gyf3l18,Blue Bird,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,2006,215707,74,0.536,0.966,6,-2.93,0,0.0557,0.12,0,0.0477,0.85,152.078,4,my boyfriend
+75,6vysCzjEwFF4flCw3d6DeO,Unbelievable,Owl City,Mobile Orchestra,2015-07-10,193493,52,0.769,0.611,8,-5.674,1,0.0422,0.00363,0,0.246,0.753,118.02,4,my boyfriend
+76,3KkXRkHbMCARz0aVfEt68P,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,158040,86,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,4,my boyfriend
+77,4Uy3kNxW2kB8AEoXljEcth,"Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse",Nicki Minaj,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,174893,66,0.766,0.881,9,-5.158,0,0.137,0.0166,2.30E-06,0.347,0.674,112.027,5,my boyfriend
+78,7cFFhb9Wz2ZXLSpEk2VDKd,Way Up,Jaden,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,153773,64,0.585,0.941,10,-3.278,0,0.145,0.03,8.41E-06,0.196,0.45,130.024,4,my boyfriend
+79,5eHmOGj5szF3Pm9fHWVwuq,モラトリアム,Omoinotake,モラトリアム,2020-01-31,287385,53,0.564,0.688,5,-3.806,1,0.0551,0.255,0,0.322,0.457,156.082,4,my boyfriend
+80,2BHj31ufdEqVK5CkYDp9mA,Mayonaka no Door / Stay With Me,Miki Matsubara,Miki Matsubara Best Collection,2008,312293,53,0.658,0.747,5,-6.615,1,0.0431,0.176,8.49E-06,0.0789,0.792,108.259,4,my boyfriend
+81,0vCTQcxSGAgjHaiAsIANKn,Vanilla Twilight,Owl City,Ocean Eyes (Deluxe Version),2009-01-01,231707,62,0.582,0.529,11,-7.637,1,0.0248,0.00961,0.000554,0.113,0.567,166.134,4,my boyfriend
+82,18UUNle3BNojYpIfbLueJh,Waving Through a Window - From Dear Evan Hansen,Owl City,Waving Through A Window (From Dear Evan Hansen),2017-06-23,247817,53,0.555,0.709,9,-4.873,1,0.0292,0.352,0,0.15,0.571,145.285,4,my boyfriend
+83,5zsHmE2gO3RefVsPyw2e3T,What's Up Danger (with Black Caviar),Blackway,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,222307,71,0.701,0.755,2,-5.82,1,0.0417,0.00363,0.000795,0.121,0.116,95.036,4,my boyfriend
+84,6VS7wKwtvL2FvTupYSWZ9e,Invincible,Aminé,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,196387,64,0.724,0.6,10,-4.391,0,0.29,0.141,0.000218,0.104,0.466,86.984,4,my boyfriend
+85,4YdiQlTTspwuGetwcv3mAw,Intro,Nadin Amizah,Selamat Ulang Tahun,2020-05-28,99877,51,0.541,0.211,7,-17.445,1,0.0452,0.98,0.149,0.174,0.2,85.045,4,my boyfriend
+86,6V81K1OcvYgHEnCA6A2Qx9,Start a Riot,Duckwrth,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,171467,67,0.728,0.727,2,-3.585,1,0.206,0.0128,0,0.0882,0.89,143.144,4,my boyfriend
+87,07azZjYghoJ3W9FHcWmKTT,Fiji Water,Owl City,Cinematic,2018-06-01,260400,43,0.714,0.572,10,-5.297,1,0.0354,0.206,0.00162,0.133,0.826,122.998,4,my boyfriend
+88,6Dh1zHQjEaOp29VW9pp3xG,Taruh,Nadin Amizah,Selamat Ulang Tahun,2020-05-28,249892,58,0.349,0.244,11,-13.163,1,0.0462,0.979,0.000909,0.0924,0.547,89.98,4,my boyfriend
+89,6rz0dTA0PdhXImFV5EjM0w,Hide (feat. Seezyn),Juice WRLD,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,205800,76,0.715,0.639,5,-5.017,0,0.0752,0.0622,0,0.157,0.151,149.996,4,my boyfriend
+90,0PYrcn09qxYeOakSY8NlHP,Kanyaah,Nadin Amizah,Selamat Ulang Tahun,2020-05-28,259869,55,0.513,0.284,7,-13.46,1,0.0332,0.945,0.0746,0.358,0.28,148.246,4,my boyfriend
+91,0vkzRCT7wzqWCFJw5TN1MQ,Save The Day (feat. Coi Leray & LouGotCash),Ski Mask The Slump God,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,178720,59,0.871,0.751,6,-8.042,0,0.0788,0.00391,0,0.0853,0.787,139.984,4,my boyfriend
+92,2CWOMDYFK4Ef3867nEhnVM,Memories,Thutmose,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,199147,62,0.567,0.651,5,-7.146,0,0.0554,0.0519,0,0.183,0.519,93.989,4,my boyfriend
+93,2tZIVD0ZPxpsoFx7hvAjWh,The Saltwater Room,Owl City,Ocean Eyes (Deluxe Version),2009-01-01,242587,50,0.641,0.686,0,-6.727,1,0.0261,0.053,5.05E-05,0.159,0.669,111.994,4,my boyfriend
+94,3vWzyGTu6Ovo1GdrcJqH6e,Scared of the Dark (feat. XXXTENTACION),Lil Wayne,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,233000,72,0.443,0.623,0,-6.717,0,0.0718,0.0468,0,0.247,0.156,79.365,4,my boyfriend
+95,5F2AuFzEiuAQD0JVNjVJQz,Let Go,Beau Young Prince,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,177653,62,0.764,0.725,7,-8.812,1,0.0576,0.463,5.91E-06,0.109,0.0794,100.063,4,my boyfriend
+96,6kiauSlWtddVQx4JwJx51p,"Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)",DJ Khalil,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,219400,66,0.58,0.935,6,-4.847,0,0.293,0.176,0,0.514,0.666,129.173,4,my boyfriend
+97,7pBsquIkbED6W6uSQJGbkn,Home,Vince Staples,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,211360,63,0.604,0.736,10,-5.596,0,0.0555,0.00608,0.109,0.11,0.345,118.012,4,my boyfriend
+98,0XOAJ3TR8YkRZwCHVRMySI,Glasses,Fuvk,Time Series,2018-02-19,196364,23,0.636,0.387,1,-12.261,0,0.0283,0.621,1.43E-05,0.248,0.22,87.998,4,my boyfriend
+99,0g5cBpjngd4btah5tkPneh,The 5th of July,Owl City,Cinematic,2018-06-01,251983,41,0.645,0.485,6,-8.943,1,0.0281,0.603,0.0191,0.0914,0.596,148.945,3,my boyfriend
